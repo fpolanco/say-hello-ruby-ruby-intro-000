@@ -1,4 +1,4 @@
-require_relative 
+require_relative './spec/say_hello_spec.rb.'
 
 describe "say_hello" do
 
